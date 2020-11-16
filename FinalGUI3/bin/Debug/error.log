@@ -1,0 +1,18 @@
+
+Unhandled Exception:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at System.Threading.ThreadPoolCallbackWrapper.Exit (System.Boolean resetThread) [0x00003] in <e04d3ec971c54d368992eafd86c45930>:0 
+  at System.Threading.ThreadPoolBoundHandle.OnNativeIOCompleted (System.IntPtr instance, System.IntPtr context, System.IntPtr overlappedPtr, System.UInt32 ioResult, System.UIntPtr numberOfBytesTransferred, System.IntPtr ioPtr) [0x00039] in <e04d3ec971c54d368992eafd86c45930>:0 
+  at (wrapper native-to-managed) System.Threading.ThreadPoolBoundHandle.OnNativeIOCompleted(intptr,intptr,intptr,uint,uintptr,intptr)
+
+Unhandled Exception:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at System.Threading.ThreadPoolCallbackWrapper.Exit (System.Boolean resetThread) [0x00003] in <e04d3ec971c54d368992eafd86c45930>:0 
+  at System.Threading.ThreadPoolBoundHandle.OnNativeIOCompleted (System.IntPtr instance, System.IntPtr context, System.IntPtr overlappedPtr, System.UInt32 ioResult, System.UIntPtr numberOfBytesTransferred, System.IntPtr ioPtr) [0x00039] in <e04d3ec971c54d368992eafd86c45930>:0 
+  at (wrapper native-to-managed) System.Threading.ThreadPoolBoundHandle.OnNativeIOCompleted(intptr,intptr,intptr,uint,uintptr,intptr)
+[ERROR] FATAL UNHANDLED EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at System.Threading.ThreadPoolCallbackWrapper.Exit (System.Boolean resetThread) [0x00003] in <e04d3ec971c54d368992eafd86c45930>:0 
+  at System.Threading.ThreadPoolBoundHandle.OnNativeIOCompleted (System.IntPtr instance, System.IntPtr context, System.IntPtr overlappedPtr, System.UInt32 ioResult, System.UIntPtr numberOfBytesTransferred, System.IntPtr ioPtr) [0x00039] in <e04d3ec971c54d368992eafd86c45930>:0 
+  at (wrapper native-to-managed) System.Threading.ThreadPoolBoundHandle.OnNativeIOCompleted(intptr,intptr,intptr,uint,uintptr,intptr)
+
+Un
